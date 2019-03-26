@@ -2,7 +2,7 @@
 layout: post
 title:  "Deep reinforcement learning: where to start"
 date:   2019-03-19 19:25:19 +0000
-categories: basic
+categories: rl
 ---
 
 # Deep reinforcement learning: where to start
