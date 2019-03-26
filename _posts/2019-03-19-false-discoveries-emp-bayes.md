@@ -5,10 +5,10 @@ date:   2019-03-19 19:25:20 +0000
 categories: stats
 ---
 
-# Taming False Discoveries with Empirical Bayes
+
 
 ## How to safely fish in a sea of noise
-
+This article previously appeared on [medium](https://towardsdatascience.com/taming-false-discoveries-with-empirical-bayes-2ce81aa8f407)
 
 Todays data scientist have an enormous amount of data at their disposal. But they also face a new problem: With so many features to choose from, how do we prevent making false discoveries?
 
