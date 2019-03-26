@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a machine learning focused researcher with a background (and interest) in economics. I see markets as a "petri dish" in which artificial intelligence can develop under competitive pressure. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can download my [CV](./assets/Jannes_CV.pdf) visit my [GitHub profile](https://github.com/JannesKlaas), [LinkedIn](https://www.linkedin.com/in/jannes-klaas/) or [Twitter](https://twitter.com/jannesklaas). If you have an idea that might be interesting academically or commercially, drop me a line at jannesklaas [at] me [dot] com 
