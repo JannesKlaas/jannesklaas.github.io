@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Adventures on the Signal Market"
+date:   2019-08-08 18:00:00 +0000
+categories: Economics
+---
+
 # Adventures on the signal market
 I have been thinking about a market for signals predicting security payoffs for a while. Interestingly, there was not really one, until regulators tried to force the industry to create one with MIFID II, which did not really work. There is however a fairly big market for data which can be mined into signals. **This is a sketch of a model aiming to explain why there data market looks the way it does, comments are welcome!**
 
