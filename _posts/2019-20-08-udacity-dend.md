@@ -5,7 +5,6 @@ date:   2019-08-23 00:00:00 +0000
 categories: Engineering
 ---
 
-# Review: Udacity Data Engineering Nano Degree
 
 ![Udacity Cert]({{ site.url }}/assets/udacity_cert.png)
 

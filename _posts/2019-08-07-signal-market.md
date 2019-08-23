@@ -5,7 +5,7 @@ date:   2019-08-08 18:00:00 +0000
 categories: Economics
 ---
 
-# Adventures on the Signal Market
+
 I have been thinking about a market for signals predicting security payoffs for a while. Interestingly, there was not really one, until regulators tried to force the industry to create one with MIFID II, which did not really work. There is however a fairly big market for data which can be mined into signals. **This is a sketch of a model aiming to explain why there data market looks the way it does, comments are welcome!**
 
 **Abstract**: In a market for information about security payoffs, the value of the information depends on how many investors it is sold to. As information can be copied costlessly and privately, buyers and sellers of information can not contract on exclusivity. Therefore, no market for information can exist, unless some degree of sophistication is required so that not all investors can make use of the information.
