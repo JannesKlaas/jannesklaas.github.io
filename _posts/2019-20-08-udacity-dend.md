@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Review: Udacity Data Engineering Nano Degree"
-date:   2019-08-23 09:00:00 +0000
+date:   2019-08-23 00:00:00 +0000
 categories: Engineering
 ---
 
