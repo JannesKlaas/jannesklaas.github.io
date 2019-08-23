@@ -7,7 +7,7 @@ categories: Engineering
 
 # Review: Udacity Data Engineering Nano Degree
 
-![Udacity Cert](../assets/udacity_cert.png)
+![Udacity Cert]({{ site.url }}/assets/udacity_cert.png)
 
 Being long time curious about the future of education and MOOCs, I have taken a lot of online classes. In some ways, what I learned in online classes has become more relevant to my career in data-science than what I learned in college. One portal that I was pretty curious about is [Udacity](https://udacity.com). For those unfamiliar, Udacity offers MOOCs on technical topics from data science to flying cars. It aims to distinguish itself through more polished courses, a "mentor" system and personal support as well as career services. In return, it charges a lot more with a typical "nano degree" as going for $1000. When I saw that they offered a [data engineering nano degree (DEND)](https://www.udacity.com/course/data-engineer-nanodegree--nd027), a topic that I was curious about and felt I wanted to learn, I signed up straight away.
 
