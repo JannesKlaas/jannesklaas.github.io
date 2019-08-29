@@ -30,6 +30,3 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Only here because of that one odd security warning about an outdated version
 gem 'nokogiri', '~> 1.8.1'
-
-# For google analytics 
-gem 'jekyll-analytics'
