@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I Study"
-date:   2019-08-29 00:00:00 +0000
+date:   2019-08-28 00:00:00 +0000
 categories: Education
 ---
 
