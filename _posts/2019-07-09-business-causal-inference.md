@@ -4,7 +4,7 @@ title:  "Why business needs causal inference"
 date:   2019-09-08 00:00:00 +0000
 categories: Education
 ---
-
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 # Why business needs causal inference
 This post is an ad. Not for a product, but for a method. Causal inference has made large strides in the last few years. It has arrived at a point, where business analysts can reason about and determine causal effects by following a few simple rules. Much of the causal inference literature is focused on medicine and public health. Economics has a long tradition of causal inference methods, but many of the traditional econometric methods are not simple enough to be used widely. Modern methods are much simpler to use. This text provides brief overview of causal inference and how it is relevant to business.
 
@@ -20,12 +20,12 @@ Imagine you are planing your beach holiday and want to stay in a nice hotel at a
 Neat! It seems like there are fewer people at the beach when hotels are cheap. This makes perfect sense since it is probably off season. You can now use this information to optimize your holidays. It is not your hotel, you do not make the prices.
 
 #### But if you plan to act, you should care about causality
-Now, picture that you own the hotel and want to optimize pricing. Should you raise prices to attract more customers? Obviously not. **When we plan to intervene, we need to take causality into account**. In this case we want to find the so called _interventional distribution_. Interventions matter so much that they are now key to the definition of causality in the field of causal inference. \(X\) causes \(Y\) if we can change \(Y\) by changing \(X\). To make clear that we are manipulating \(X\), we write \(P(Y|do(X))\) to note the interventional distribution, which the hotel owner cares about, and \(P(Y|X)\) to note the associative distribution, which the tourist cares about.
+Now, picture that you own the hotel and want to optimize pricing. Should you raise prices to attract more customers? Obviously not. **When we plan to intervene, we need to take causality into account**. In this case we want to find the so called _interventional distribution_. Interventions matter so much that they are now key to the definition of causality in the field of causal inference. {% raw %}\(X\) {% endraw %} causes {% raw %} \(Y\) {% endraw %} if we can change {% raw %} \(Y\) {% endraw %} by changing {% raw %} \(X\) {% endraw %}. To make clear that we are manipulating {% raw %} \(X\) {% endraw %}, we write {% raw %} \(P(Y|do(X))\) {% endraw %} to note the interventional distribution, which the hotel owner cares about, and {% raw %} \(P(Y|X)\) {% endraw %} to note the associative distribution, which the tourist cares about.
 
 Business analysts often work to aid management decision making. Business decisions are usually about intervention: How much should we charge? Which ad should we display? What should our product do? How do we organize our supply chain? For all decisions in which your intervention will have an effect on the outcome, you will need to make causal statements. 
 
 ## Causality needs good communication
-You, the hotel owner, got the message and are eager to make some proper causal statements. But when does correlation become causation? I will let you in on a dirty secret here: **Correlation does become causation when we assume it does.** You read that right. There is no higher god of statistics showing us exactly when \(X\) causes \(Y\) and when they are merely correlated. We could look at the chart above and say: "This correlation exists because higher prices actually do attract more visitors!". 
+You, the hotel owner, got the message and are eager to make some proper causal statements. But when does correlation become causation? I will let you in on a dirty secret here: **Correlation does become causation when we assume it does.** You read that right. There is no higher god of statistics showing us exactly when {% raw %} \(X\) {% endraw %} causes {% raw %} \(Y\) {% endraw %} and when they are merely correlated. We could look at the chart above and say: "This correlation exists because higher prices actually do attract more visitors!". 
 
 However, it would be hard to justify this assumption. Prices and bookings are **confounded** by season. We therefore need to adjust our our estimate of the price effect. 
 
