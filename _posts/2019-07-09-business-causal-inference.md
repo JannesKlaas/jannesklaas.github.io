@@ -4,7 +4,7 @@ title:  "Why business needs causal inference"
 date:   2019-09-08 00:00:00 +0000
 categories: Education
 ---
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 # Why business needs causal inference
 This post is an ad. Not for a product, but for a method. Causal inference has made large strides in the last few years. It has arrived at a point, where business analysts can reason about and determine causal effects by following a few simple rules. Much of the causal inference literature is focused on medicine and public health. Economics has a long tradition of causal inference methods, but many of the traditional econometric methods are not simple enough to be used widely. Modern methods are much simpler to use. This text provides brief overview of causal inference and how it is relevant to business.
 
