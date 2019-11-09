@@ -2,7 +2,7 @@
 layout: post
 title:  "Why business needs causal inference"
 date:   2019-09-08 00:00:00 +0000
-categories: Education
+categories: Statistics
 ---
 
 # Why business needs causal inference
