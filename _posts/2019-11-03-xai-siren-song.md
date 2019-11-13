@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The Dangers of Explainable AI"
+title:  "Lessons learned in Explainable AI"
 date:   2019-11-09 00:00:00 +0000
 categories: ML
 ---
 
-# The Dangers of Explainable AI
+# Lessons learned in Explainable AI
 If you work in machine learning, you most likely have heard of Explainable AI (XAI). Stakeholders (businesses, regulators, patients, etc.) will usually not trust a black black box algorithm. They want an explanation for how the algorithm made its decisions. This is a hard problem, as ML algorithms can not speak for themselves and tend to be incredibly complex. Usually, us data scientists will therefore use a tool like [LIME](https://github.com/marcotcr/lime) or [SHAP](https://github.com/slundberg/shap), create some charts and hope that our stakeholders are comfortable with the results.
 
 ![Skeptical Snake]({{ site.url }}/assets/skeptical_snake_shap.jpeg)
