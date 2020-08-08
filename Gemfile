@@ -30,3 +30,8 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Only here because of that one odd security warning about an outdated version
 gem 'nokogiri', '~> 1.10.8'
+
+
+# Only here because of that other odd security warning about an outdated version
+gem "kramdown", ">= 2.3.0"
+
