@@ -34,4 +34,5 @@ gem 'nokogiri', '~> 1.10.8'
 
 # Only here because of that other odd security warning about an outdated version
 gem "kramdown", ">= 2.3.0"
+gem "rubyzip", ">= 1.3.0"
 
