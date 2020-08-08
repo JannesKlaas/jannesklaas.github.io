@@ -29,4 +29,4 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Only here because of that one odd security warning about an outdated version
-gem 'nokogiri', '~> 1.8.1'
+gem 'nokogiri', '~> 1.10.8'
