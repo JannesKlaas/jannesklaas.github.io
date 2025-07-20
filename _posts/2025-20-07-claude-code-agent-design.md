@@ -15,7 +15,7 @@ I will assume you already have some experience with coding agents and have used 
 To understand how the agent works, I used [Seif Ghazi's excellent Claude Code Proxy](https://github.com/seifghazi/claude-code-proxy), which is very easy to set up and use to inspect the API requests the agent makes. You will see screenshots from the program throughout.
 
 ## Simplicity
-Claude Code is relatively simple. It is a single agent loop, with 14 tools availeble.
+Claude Code is relatively simple. It is a single agent loop, with 14 tools available.
 4 are command line related (bash, glob, grep, ls), 6 are about interacting with files (read, write, edit, multi edit, notebook read, notebook edit), 2 are about the web (web search, web fetch) and 2 about control flows (todo write, task).
 
 Anthropic seems to have split out tools either because of permissions with bash requiring user approval but glob, grep & ls not requiring approval or to deal with the particulars of particular file types which are commonly used. Jupyter notebooks are very long documents when read raw, and so it makes sense to have a parser to ensure the code is easier to read and write.
@@ -70,7 +70,7 @@ The TODO list is often used in system hints (see below). It is also an important
 
 A small but clever trick is that the tool results contain instructions, like not to engage with malicious files here. These instructions are fixed text appended to the tool result. By repeating them with every tool use there is likely much higher adherance to these instructions as if when they would only be in the system prompt.
 
-This is very pronounced in the todo list write tool, which in its result reminds Claude to keep using the TODO list to keep track of its work and to now follow the next task on the lust.
+This is very pronounced in the todo list write tool, which in its result reminds Claude to keep using the TODO list to keep track of its work and to now follow the next task on the list.
 
 ## System reminders
 Claude Code attaches system reminders to the user message to keep the agent on track.
@@ -87,7 +87,7 @@ ALWAYS prefer editing an existing file to creating a new one.
 NEVER proactively create documentation files (*.md) or README files. Only create documentation files if explicitly requested by the User.
 
 IMPORTANT: this context may or may not be relevant to your tasks. You should not respond to this context or otherwise consider it in your response unless it is highly relevant to your task. Most of the time, it is not relevant.
-</system-remincer>
+</system-reminder>
 ```
 
 Then after the first user message:
@@ -118,12 +118,12 @@ The sub agents are another instance of Claude Code, with the only difference bei
 
 To dispatch the agent, Claude uses the `Task` tool, providing a description of the task, which us used for labeling the task in the UI, and a prompt, which is then passed to the sub-agent.
 
-The sub agent recieves a user prompt that is exactly what went into the prompt. It is not even informed that it is a sub-agent. It also recieves the same system hints and system prompt, so it really is a new instance of Claude Code.
+The sub agent receives a user prompt that is exactly what went into the prompt. It is not even informed that it is a sub-agent. It also receives the same system hints and system prompt, so it really is a new instance of Claude Code.
 
 ![Sub Agent Input]({{ site.url }}/assets/claude-code-sub-agent-input.png)
 
 ## Haiku For Security Checks
-A final quite interesting find is that Claude Code sends commands which the main model is about to execute to Claude Haiku, Anthropic's smallest, fastest and cheapest model. Haiku responds with structured output. Helps Claude Code avoid bad consequences without slowing down the main loop too much. The fact that they are using Haiku means Anthropic very conciously traded off speed and accuracy here.
+A final quite interesting find is that Claude Code sends commands which the main model is about to execute to Claude Haiku, Anthropic's smallest, fastest and cheapest model. Haiku responds with structured output. Helps Claude Code avoid bad consequences without slowing down the main loop too much. The fact that they are using Haiku means Anthropic very consciously traded off speed and accuracy here.
 
 The human user needs to approve any bash command. But they can choose to "allow all similar", meaning these Haiku outputs are likely used to determine if user approval is needed.
 
@@ -169,3 +169,10 @@ Response:
     }
   ],
 ```
+
+## Keeping Claude on Track
+Most of these innovations are about keeping a single agent on track while peforming a long sequence of complex tasks. This allows keeping the main agent design simpler, with less need for complex scaffolding.
+
+There is a lot I have learned from peeking into Claude Code that translates to other agentic designs I am working on.
+
+Thanks for reading.
