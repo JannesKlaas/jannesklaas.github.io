@@ -14,6 +14,18 @@ I will assume you already have some experience with coding agents and have used 
 
 To understand how the agent works, I used [Seif Ghazi's excellent Claude Code Proxy](https://github.com/seifghazi/claude-code-proxy), which is very easy to set up and use to inspect the API requests the agent makes. You will see screenshots from the program throughout.
 
+## Main Findings
+What suprised me is that Claude Code's design is relatively simple. It is a standard agentic pattern for a single agent, combined with a host of tricks to enable running long sessions and well thought out tools to enable code editing.
+
+Claude:
+1. Uses simple TODO lists to plan out work
+2. Uses tools and system reminders to stay on track
+3. Uses sub-agents for speed and context manages.
+
+This simplicity makes Claude so powerful. It can achieve a whole lot of tasks without having many specialized modules or components. Even many of the file editing tools should transfer well to non-code tasks, like writing or form filling. Clearly, a lot of credit must go to the model for knowing how to use these tools and for being able to follow a complex plan in one session. But there has also been great thinking here to make the most effective use of the model.
+
+As more agents are built for any and all tasks, it is helpful to learn some lessons from the best.
+
 ## Simplicity
 Claude Code is relatively simple. It is a single agent loop, with 14 tools available.
 4 are command line related (bash, glob, grep, ls), 6 are about interacting with files (read, write, edit, multi edit, notebook read, notebook edit), 2 are about the web (web search, web fetch) and 2 about control flows (todo write, task).
