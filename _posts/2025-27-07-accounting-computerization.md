@@ -11,6 +11,9 @@ But accounting went through a digital revolution before. In 1950s to early 2000s
 
 There is many stories to be told, in this edition I will focus on the individual pioneers who played a large role in the revolution.
 
+![Accountants-On-Computers]({{ site.url }}/assets/accountants-on-computers.png)
+
+
 ## The Mainframe Pioneers: Betting Everything on Electronic Dreams (1950s-1970s)
 
 ### Joseph Glickauf's missionary zeal launched the computer consulting industry
