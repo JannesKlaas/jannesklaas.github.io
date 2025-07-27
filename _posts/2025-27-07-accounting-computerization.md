@@ -1,4 +1,9 @@
-# Tales from Accounting's Digital Revolution
+---
+layout: post
+title:  "Tales from Accounting's Digital Revolution"
+date:   2025-27-20 00:00:00 +0000
+categories: AI
+---
 
 When you think of accounting, you probably think of a staid profession. Of old men in dusty offices and nothing ever changing. You might also think of an industry ripe for AI disruption, with millions of people only waiting to get replaced.
 
@@ -38,6 +43,12 @@ Working with early mainframes was a profoundly different experience from modern 
 **"The first programmers didn't have an easy time of it,"** one contemporary noted. **"As the old joke goes, 'all they had were ones and zeros, and sometimes they didn't even have the ones'... the system was arcane, debugging tools were non-existent and computer languages had yet to be invented."**
 
 The cultural impact within Arthur Andersen was equally profound. Employees began referring to themselves as [**"Arthur' Androids"**](http://news.bbc.co.uk/1/hi/business/1880776.stm) due to the firm's emphasis on uniform methods and appearance—standardization that proved crucial for implementing computer systems consistently across offices. The firm invested 15-20% of net revenue in professional development, creating what was ranked the #1 corporate training program. This massive investment was essential for transitioning staff from manual to computerized methods.
+
+## Nancy Bagranoff from GE to president of the American Accounting Association
+General Electric was a major training ground for the next generation of accounting technology pioneers. **Nancy Braganoff** [started her career at GE's Financial Management Training Program](https://robins.richmond.edu/faculty/nbagrano/) before moving into Academia. 
+After her doctorate, she became one of the leading figures in the field of accounting information systems, publishing [serveral core textbooks on the topic](https://www.amazon.com/s?i=stripbooks&rh=p_27%3ANancy%2BA.%2BBagranoff&s=relevancerank&text=Nancy+A.+Bagranoff&ref=dp_byline_sr_book_1)
+
+In 2009 she was elected president of the [American Accounting Association](https://aaahq.org). Academic work like hers laid the foundation on which later iterations of technology were built.
 
 ## The Personal Computer Revolution: Spreadsheets Transform Everything (1980s)
 ### Dan Bricklin's Harvard frustration births the killer app
@@ -87,11 +98,22 @@ His technological expertise led to the firm creating a **"Microcomputer Consulti
 
 **Ben Dyer's** journey began in downtown Atlanta, where he joined four electrical engineers from Georgia Tech who had opened one of the first computer stores in the country, selling the Altair 8800 microcomputer. [**"They needed someone like me,"** Dyer said. **"None of them had any business experience at all. I joined them and just had a blast inventing an industry there. I got to deal with what I call the pioneering customers who made our industry possible."**](https://www.siliconhillsnews.com/2017/09/02/peachtree-software-founder-s erial-entrepreneur-ben-dyer-ideas-invoices/)
 
-[In 1978, when the company needed to choose between expanding computer retail or focusing on software development, they split on Labor Day. Dyer became president and founder of the software division.](https://www.siliconhillsnews.com/2017/09/02/peachtree-software-founder-serial-entrepreneur-ben-dyer-ideas-invoices/) [The name **"Peachtree"** came from an expensive PR consultant who visited their Peachtree Street offices and suggested naming the company after the street. **"Outside of Atlanta it was a really good brand name,"** Dyer noted wryly, referencing Atlanta's numerous Peachtree Streets.](https://www.siliconhillsnews.com/2017/09/02/peachtree-software-founder-serial-entrepreneur-ben-dyer-ideas-invoices/)
+In 1978, when the company needed to choose between expanding computer retail or focusing on software development, they split on Labor Day. [Dyer became president and founder of the software division.](https://www.siliconhillsnews.com/2017/09/02/peachtree-software-founder-serial-entrepreneur-ben-dyer-ideas-invoices/) The name **"Peachtree"** came from an expensive PR consultant who visited their Peachtree Street offices and suggested naming the company after the street. [**"Outside of Atlanta it was a really good brand name,"** Dyer noted wryly, referencing Atlanta's numerous Peachtree Streets.](https://www.siliconhillsnews.com/2017/09/02/peachtree-software-founder-serial-entrepreneur-ben-dyer-ideas-invoices/)
 
-[The educational challenge was enormous. **"Our dealer plan [...] gave us Tier 1 support out on the field. At least we were able to handle all the first line questions like, 'What's a credit or a debit?' A lot of people didn't understand accounting, so we ended up providing accounting education as much as computer support."**](https://www.myob.com/au/blog/the-accounting-journal-accounting-software-grows-up/)
+The educational challenge was enormous. **"Our dealer plan [...] gave us Tier 1 support out on the field. At least we were able to handle all the first line questions like, 'What's a credit or a debit?' [A lot of people didn't understand accounting, so we ended up providing accounting education as much as computer support."**](https://www.myob.com/au/blog/the-accounting-journal-accounting-software-grows-up/)
 
-[At the 1980 COMDEX expo, IBM executives approached Dyer wanting to license Peachtree Software for the new IBM PC. Shortly before the IBM PC's August 1981 debut, Management Science America (MSA), hearing that Peachtree would be included in the IBM PC launch, acquired the company.](https://www.siliconhillsnews.com/2017/09/02/peachtree-software-founder-serial-entrepreneur-ben-dyer-ideas-invoices/) 
+At the 1980 COMDEX expo, IBM executives approached Dyer wanting to license Peachtree Software for the new IBM PC. Shortly before the IBM PC's August 1981 debut, Management Science America (MSA), hearing that Peachtree would be included in the IBM PC launch, [acquired the company.](https://www.siliconhillsnews.com/2017/09/02/peachtree-software-founder-serial-entrepreneur-ben-dyer-ideas-invoices/) 
+
+### Caroline Olsen's rise and fall alongside Peachtree 
+The spread of accounting software created immense demand for people who knew how to use it. Along the giants like Andersen, countless smaller businesses sprang up to serve the need.
+
+**Caroline Olsen** used her knowledge of Peachtree to [jump into entrepreneurship](https://medium.com/crows-feet/i-had-an-accounting-software-business-in-the-1980s-429656160c86). She had used the software at a previous employer and set up her own small consulting business around it. **"I would make a small profit from the software package, but the real money would be in the installation and in teaching employees how to use it.
+I lived in a rural area back then, and my first client was an excavation company."**
+
+The small business grew through word of mouth and Caroline quickly had a base of customers in her area. Next to the one time installation she would also provide ongoing support to people with accounting problems.
+
+Eventually, the easier software rendered her services obsolete. **"QuickBooks was taking over the marketplace, so most of my former clients converted to it because of its user-friendly applications and lower cost. I read that Peachtree was bought by Sage Intact, which advertises that it is better than “limited” QuickBooks. At this point in my life, I don’t care."**
+
 
 ## The Small Business Software Revolution: Kitchen Tables to Billion-Dollar Deals (1990s-2000s)
 
