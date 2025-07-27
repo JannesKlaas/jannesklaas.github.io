@@ -25,7 +25,7 @@ Knowing that skeptical accountants needed tangible proof, Glickauf built his fam
 The January 1951 Glickiac demonstration proved powerful enough to convince Arthur Andersen partners to commit whatever resources necessary to enter [computer consulting before competitors.](https://www.myob.com/au/blog/the-accounting-journal-the-univac-changes-everything/) This decision launched what would become a multi-billion dollar industry, but the early implementation was anything but smooth.
 
 ### Leonard Spacek's vision and the GE disaster that taught humility
-![Leonard Spacek]({{ site.url }}/assets/Leonard-Spacek.webp)
+![Leonard-Spacek]({{ site.url }}/assets/Leonard-Spacek.png)
 **Leonard Paul Spacek**, Arthur Andersen's managing partner, brought both vision and hard-earned pragmatism to the computerization effort. Born to Czech immigrants in Cedar Rapids, Iowa, Spacek experienced childhood poverty when his mother's illness forced the family to split up. Local farm families took him in, and he worked for room and board while finishing high school—experiences that instilled the work ethic and determination that would later drive his leadership of Arthur Andersen.
 
 When Arthur Andersen died in 1947, partners initially voted to dissolve the firm. [Spacek, at age 41, led the effort to save it](https://web.archive.org/web/20241007205359/https://www.informit.com/articles/article.aspx?p=101144) and was described as being **"on the cutting edge of new technologies, especially computers"** with **"a sense of marketing before the term was even coined."** Under his leadership, Arthur Andersen grew from $6 million in annual revenue in 1947 to $65 million by 1965.
