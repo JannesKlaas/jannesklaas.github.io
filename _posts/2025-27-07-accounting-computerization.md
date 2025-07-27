@@ -9,15 +9,14 @@ When you think of accounting, you probably think of a staid profession. Of old m
 
 But accounting went through a digital revolution before. In 1950s to early 2000s, accounting transformed from paper and abacus to a completely computerized profession. Millions of people had to completely re-imagine their craft, billion dollar companies rose and fell and trillions of dollars of value were created. The resulting change led to consolidation which leaves almost all large corporations dependent on just 4 accounting firms.
 
-There is many stories to be told, in this edition I will focus on the individual pioneers who played a large role in the revolution.
-
 ![Accountants-On-Computers]({{ site.url }}/assets/accountants-on-computers.png)
+
+There is many stories to be told, in this edition I will focus on the individual pioneers who played a large role in the revolution.
 
 
 ## The Mainframe Pioneers: Betting Everything on Electronic Dreams (1950s-1970s)
 
 ### Joseph Glickauf's missionary zeal launched the computer consulting industry
-![Univac]({{ site.url }}/assets/univac-1951.webp)
 
 The story begins with **Joseph Simon Glickauf Jr.**, a South Side Chicago native whose Navy service in the Research Division of the Bureau of Supplies and Accounts prepared him to recognize revolutionary potential where others saw expensive curiosities. [Hired by Arthur Andersen in 1946 specifically to investigate electronic computers, Glickauf visited early computing demonstrations in Philadelphia and returned with evangelical fervor.](https://www.chicagotribune.com/news/ct-xpm-2005-07-28-0507280218-story.html) 
 
