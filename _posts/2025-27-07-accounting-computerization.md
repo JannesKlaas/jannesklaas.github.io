@@ -53,6 +53,7 @@ In 2009 she was elected president of the [American Accounting Association](https
 ## The Personal Computer Revolution: Spreadsheets Transform Everything (1980s)
 ### Dan Bricklin's Harvard frustration births the killer app
 ![Bob-Dan]({{ site.url }}/assets/visicalc_bob_and_dan.webp)
+
 The next chapter begins with a frustrated MBA student at Harvard Business School. [**Dan Bricklin**](https://en.wikipedia.org/wiki/Dan_Bricklin), born July 16, 1951, in Philadelphia, had earned his electrical engineering and computer science degree from MIT in 1973 and worked at Digital Equipment Corporation before entering Harvard Business School in the late 1970s.
 
 The eureka moment came during his Harvard studies. **"In business school I used the DEC system when I needed to write a little BASIC program to help me with my homework,"** [Bricklin recalled in a 1986 interview.](https://programmersatwork.wordpress.com/dan-bricklin-1986/) **"But it wasn't fast enough. Even if it only took me 15 or 20 minutes to throw together a little program to do the analysis we wanted for a group project, that wasn't fast enough, and the program usually had bugs. That's when I came up with the idea for VisiCalc, putting together the immediacy of word processing and the fluidity of the screen."**
@@ -73,6 +74,7 @@ When asked about VisiCalc being called the first "killer app," Bricklin responde
 
 ### Mitch Kapor's Hawaiian shirt disrupts IBM's buttoned-up culture
 ![Mitch-Kapor]({{ site.url }}/assets/mitch-kapor.avif)
+
 **Mitchell David Kapor**, born November 1, 1950, in Brooklyn and raised in Freeport, Long Island, brought a counterculture sensibility to business software. [After earning a B.A. from Yale College in 1971 in psychology, linguistics, and computer science, he worked as a product manager for VisiCalc before leaving VisiCorp to start his own venture.](https://www.americanprogress.org/people/kapor-mitchell/)
 
 In 1982, Kapor founded Lotus Development Corporation with Jonathan Sachs and backing from venture capitalist Ben Rosen. Their vision was to create something far superior to VisiCalc.[**"They [Bricklin and Frankston] had a very weak entrant for that machine that didn't take advantage of the IBM PC... people wanted to build large spreadsheets and they couldn't. The VisiCalc for PC was hard to use. I said: 'Let's build something that really takes advantage of these capabilities'."**](https://www.theregister.com/2013/01/26/mitch_kapor_lotus_123_anniversary/)
@@ -118,7 +120,7 @@ Eventually, the easier software rendered her services obsolete. **"QuickBooks wa
 ## The Small Business Software Revolution: Kitchen Tables to Billion-Dollar Deals (1990s-2000s)
 
 ### Scott Cook transforms a domestic complaint into democratized accounting
-![Intuit-Stock]({{ site.url }}/assets/Intuit-Stock.png)
+![Intuit-Stock]({{ site.url }}/assets/intuit-stock.png)
 
 The most transformative personal story of business software begins with a simple domestic complaint in 1982. **Scott Cook's** wife, Signe Ostby, was paying bills at their kitchen table and complained about the tedium of the process. This [**"ordinary, everyday moment"**](https://business.wisc.edu/news/savor-surprises-a-conversation-with-intuit-co-founder-scott-cook/) would eventually generate Intuit, Inc., now worth $130 billion. 
 
